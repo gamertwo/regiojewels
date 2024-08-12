@@ -1,4 +1,8 @@
 'use client';
+{/* eslint-disable react/no-unescaped-entities */}
+
+
+
 
 import { Playfair_Display, Montserrat } from 'next/font/google';
 import Navbar from '@/app/components/Navbar/page';
